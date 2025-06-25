@@ -24,7 +24,7 @@ HotelEase is a simple hotel management system built with pure PHP and MySQL, des
 1. Clone the repo:
 ```
 
-git clone [https://github.com/Nuraj250/hotel-ease-php.git](https://github.com/Nuraj250/hotel-ease-php.git)
+git clone https://github.com/Nuraj250/hotel-ease-php.git
 
 ```
 2. Import the `hotel.sql` into your MySQL server
